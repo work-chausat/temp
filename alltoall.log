@@ -1,0 +1,1122 @@
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+# nThread 1 nGpus 1 minBytes 8 maxBytes 134217728 step: 2(factor) warmup iters: 5 iters: 20 agg iters: 1 validation: 1 graph: 0
+#
+# Using devices
+#  Rank  0 Group  0 Pid  12869 on lbtest1-c69d9df59-ldh5z device  0 [0x8a] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  12870 on lbtest1-c69d9df59-ldh5z device  0 [0x8a] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  12867 on lbtest1-c69d9df59-ldh5z device  0 [0x8a] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  12868 on lbtest1-c69d9df59-ldh5z device  0 [0x8a] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  13437 on lbtest1-c69d9df59-fz2n9 device  0 [0x10] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  13438 on lbtest1-c69d9df59-fz2n9 device  0 [0x10] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  22568 on lbtest1-c69d9df59-cbhgz device  0 [0x8a] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  22566 on lbtest1-c69d9df59-cbhgz device  0 [0x8a] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  13439 on lbtest1-c69d9df59-fz2n9 device  0 [0x10] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  22569 on lbtest1-c69d9df59-cbhgz device  0 [0x8a] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  13440 on lbtest1-c69d9df59-fz2n9 device  0 [0x10] NVIDIA A800-SXM4-80GB
+#  Rank  0 Group  0 Pid  22567 on lbtest1-c69d9df59-cbhgz device  0 [0x8a] NVIDIA A800-SXM4-80GB
+lbtest1-c69d9df59-ldh5z:12869:12869 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12869:12869 [0] NCCL INFO Bootstrap : Using eth0:10.42.6.176<0>
+lbtest1-c69d9df59-cbhgz:22566:22566 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12869:12869 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-ldh5z:12869:12869 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-cbhgz:22566:22566 [0] NCCL INFO Bootstrap : Using eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22566:22566 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-cbhgz:22566:22566 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-ldh5z:12868:12868 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12868:12868 [0] NCCL INFO Bootstrap : Using eth0:10.42.6.176<0>
+lbtest1-c69d9df59-ldh5z:12868:12868 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-ldh5z:12868:12868 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-fz2n9:13437:13437 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13437:13437 [0] NCCL INFO Bootstrap : Using eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13437:13437 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-fz2n9:13437:13437 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-fz2n9:13438:13438 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13438:13438 [0] NCCL INFO Bootstrap : Using eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13438:13438 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-fz2n9:13438:13438 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-fz2n9:13439:13439 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13439:13439 [0] NCCL INFO Bootstrap : Using eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13439:13439 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-fz2n9:13439:13439 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-ldh5z:12867:12867 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12867:12867 [0] NCCL INFO Bootstrap : Using eth0:10.42.6.176<0>
+lbtest1-c69d9df59-ldh5z:12867:12867 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-ldh5z:12867:12867 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-cbhgz:22569:22569 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-cbhgz:22569:22569 [0] NCCL INFO Bootstrap : Using eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22569:22569 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-cbhgz:22569:22569 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-ldh5z:12870:12870 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12870:12870 [0] NCCL INFO Bootstrap : Using eth0:10.42.6.176<0>
+lbtest1-c69d9df59-ldh5z:12870:12870 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-ldh5z:12870:12870 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-cbhgz:22568:22568 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-cbhgz:22568:22568 [0] NCCL INFO Bootstrap : Using eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22568:22568 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-cbhgz:22568:22568 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-fz2n9:13440:13440 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13440:13440 [0] NCCL INFO Bootstrap : Using eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13440:13440 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-fz2n9:13440:13440 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-cbhgz:22567:22567 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-cbhgz:22567:22567 [0] NCCL INFO Bootstrap : Using eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22567:22567 [0] NCCL INFO NET/Plugin : Plugin load (libnccl-net.so) returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory
+lbtest1-c69d9df59-cbhgz:22567:22567 [0] NCCL INFO NET/Plugin : No plugin found, using internal implementation
+lbtest1-c69d9df59-fz2n9:13437:13437 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13438:13438 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-fz2n9:13439:13439 [0] NCCL INFO cudaDriverVersion 12000
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-fz2n9:13440:13440 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-cbhgz:22566:22566 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-cbhgz:22568:22568 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-cbhgz:22567:22567 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-cbhgz:22569:22569 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-ldh5z:12868:12868 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-ldh5z:12867:12867 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-ldh5z:12869:12869 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+lbtest1-c69d9df59-ldh5z:12870:12870 [0] NCCL INFO cudaDriverVersion 12000
+NCCL version 2.18.5+cuda12.0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 0.
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO NCCL_SOCKET_IFNAME set by environment to eth0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO NCCL_IB_HCA set to mlx5_0:1,mlx5_1:1,mlx5_4:1,mlx5_5:1,mlx5_6:1,mlx5_7:1,mlx5_8:1,mlx5_9:1
+
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Using network IB
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO comm 0x56485bb353c0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0x1fc33a31ca8b454a - Init START
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-fz2n9:13438:13457 [0] NCCL INFO comm 0x56485bb353c0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0x1fc33a31ca8b454a - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO comm 0x561748e8e4f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0xfd81bd7ecbcd7320 - Init START
+           8             2     float    none      -1     9.75    0.00    0.00      0     8.99    0.00    0.00    N/A
+          16             4     float    none      -1     9.73    0.00    0.00      0     8.85    0.00    0.00    N/A
+          32             8     float    none      -1     9.74    0.00    0.00      0     8.87    0.00    0.00    N/A
+          64            16     float    none      -1     9.71    0.01    0.00      0     8.81    0.01    0.00    N/A
+         128            32     float    none      -1     9.70    0.01    0.00      0     8.98    0.01    0.00    N/A
+         256            64     float    none      -1     9.80    0.03    0.00      0     8.92    0.03    0.00    N/A
+         512           128     float    none      -1     9.70    0.05    0.00      0     8.95    0.06    0.00    N/A
+        1024           256     float    none      -1     9.57    0.11    0.00      0     8.51    0.12    0.00    N/A
+        2048           512     float    none      -1     9.58    0.21    0.00      0     8.73    0.23    0.00    N/A
+        4096          1024     float    none      -1     9.44    0.43    0.00      0     8.57    0.48    0.00    N/A
+        8192          2048     float    none      -1     9.63    0.85    0.00      0     8.69    0.94    0.00    N/A
+       16384          4096     float    none      -1     9.80    1.67    0.00      0     8.55    1.92    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Setting affinity for GPU 0 to ffffffff,00000000,ffffffff
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+       32768          8192     float    none      -1    11.22    2.92    0.00      0    10.14    3.23    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO comm 0x557e6e5e52f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0x17c296d97da66c59 - Init START
+       65536         16384     float    none      -1    11.25    5.83    0.00      0    10.03    6.53    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.5.72<0>
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Using network IB
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Setting affinity for GPU 0 to ffffffff,00000000,ffffffff
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO P2P Chunksize set to 131072
+      131072         32768     float    none      -1    11.52   11.37    0.00      0    10.27   12.77    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-fz2n9:13437:13454 [0] NCCL INFO comm 0x561748e8e4f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0xfd81bd7ecbcd7320 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+      262144         65536     float    none      -1    11.33   23.13    0.00      0    10.21   25.67    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO comm 0x562dbcf684b0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0xf3467f57433feed4 - Init START
+           8             2     float    none      -1    40.46    0.00    0.00      0    22.18    0.00    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-fz2n9:13439:13458 [0] NCCL INFO comm 0x557e6e5e52f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0x17c296d97da66c59 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+      524288        131072     float    none      -1    31.12   16.85    0.00      0    31.19   16.81    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13440:13484 [0] NCCL INFO comm 0x562dbcf684b0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 10000 commId 0xf3467f57433feed4 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+          16             4     float    none      -1    23.03    0.00    0.00      0    29.81    0.00    0.00    N/A
+     1048576        262144     float    none      -1    26.07   40.21    0.00      0    39.88   26.30    0.00    N/A
+           8             2     float    none      -1    30.79    0.00    0.00      0    86.02    0.00    0.00    N/A
+          32             8     float    none      -1    940.3    0.00    0.00      0    38.31    0.00    0.00    N/A
+           8             2     float    none      -1    69.41    0.00    0.00      0    68.03    0.00    0.00    N/A
+     2097152        524288     float    none      -1    75.09   27.93    0.00      0    76.45   27.43    0.00    N/A
+          16             4     float    none      -1    287.1    0.00    0.00      0    37.46    0.00    0.00    N/A
+          64            16     float    none      -1    46.48    0.00    0.00      0    37.65    0.00    0.00    N/A
+          16             4     float    none      -1    69.20    0.00    0.00      0    103.0    0.00    0.00    N/A
+          32             8     float    none      -1    38.86    0.00    0.00      0    45.50    0.00    0.00    N/A
+     4194304       1048576     float    none      -1    52.87   79.34    0.00      0    38.71  108.36    0.00    N/A
+         128            32     float    none      -1    38.65    0.00    0.00      0    64.63    0.00    0.00    N/A
+          32             8     float    none      -1   1022.8    0.00    0.00      0    68.62    0.00    0.00    N/A
+          64            16     float    none      -1    38.88    0.00    0.00      0    233.6    0.00    0.00    N/A
+         256            64     float    none      -1    437.4    0.00    0.00      0    45.73    0.01    0.00    N/A
+     8388608       2097152     float    none      -1    90.32   92.87    0.00      0    77.18  108.70    0.00    N/A
+          64            16     float    none      -1    68.83    0.00    0.00      0    239.0    0.00    0.00    N/A
+         128            32     float    none      -1    38.34    0.00    0.00      0    39.03    0.00    0.00    N/A
+         512           128     float    none      -1    50.06    0.01    0.00      0    536.6    0.00    0.00    N/A
+         128            32     float    none      -1    70.40    0.00    0.00      0    68.09    0.00    0.00    N/A
+         256            64     float    none      -1    222.9    0.00    0.00      0    37.82    0.01    0.00    N/A
+    16777216       4194304     float    none      -1    101.0  166.11    0.00      0    76.43  219.51    0.00    N/A
+        1024           256     float    none      -1    46.53    0.02    0.00      0    64.24    0.02    0.00    N/A
+         256            64     float    none      -1    234.0    0.00    0.00      0    70.52    0.00    0.00    N/A
+         512           128     float    none      -1    40.95    0.01    0.00      0    250.8    0.00    0.00    N/A
+        2048           512     float    none      -1    426.6    0.00    0.00      0    45.87    0.04    0.00    N/A
+    33554432       8388608     float    none      -1    123.2  272.33    0.00      0    77.23  434.47    0.00    N/A
+         512           128     float    none      -1    68.95    0.01    0.00      0    260.2    0.00    0.00    N/A
+        1024           256     float    none      -1    38.10    0.03    0.00      0    41.94    0.02    0.00    N/A
+        4096          1024     float    none      -1    145.5    0.03    0.00      0    311.4    0.01    0.00    N/A
+        1024           256     float    none      -1    73.48    0.01    0.00      0    75.42    0.01    0.00    N/A
+        2048           512     float    none      -1    297.7    0.01    0.00      0    44.90    0.05    0.00    N/A
+    67108864      16777216     float    none      -1    166.4  403.33    0.00      0    46.67  1437.88    0.00    N/A
+        8192          2048     float    none      -1    38.36    0.21    0.00      0    285.2    0.03    0.00    N/A
+        2048           512     float    none      -1    300.0    0.01    0.00      0    174.7    0.01    0.00    N/A
+        4096          1024     float    none      -1    70.97    0.06    0.00      0    46.68    0.09    0.00    N/A
+       16384          4096     float    none      -1    121.2    0.14    0.00      0    227.7    0.07    0.00    N/A
+        4096          1024     float    none      -1    268.8    0.02    0.00      0    82.75    0.05    0.00    N/A
+   134217728      33554432     float    none      -1    288.2  465.64    0.00      0    102.2  1312.90    0.00    N/A
+        8192          2048     float    none      -1    53.37    0.15    0.00      0    295.4    0.03    0.00    N/A
+       32768          8192     float    none      -1    39.72    0.83    0.00      0    31.34    1.05    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13438:13438 [0] NCCL INFO comm 0x56485bb353c0 rank 0 nranks 1 cudaDev 0 busId 10000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+        8192          2048     float    none      -1    157.3    0.05    0.00      0    91.20    0.09    0.00    N/A
+       16384          4096     float    none      -1    31.19    0.53    0.00      0    30.03    0.55    0.00    N/A
+       65536         16384     float    none      -1    32.44    2.02    0.00      0    31.24    2.10    0.00    N/A
+       16384          4096     float    none      -1    91.84    0.18    0.00      0    404.2    0.04    0.00    N/A
+       32768          8192     float    none      -1    40.61    0.81    0.00      0    31.32    1.05    0.00    N/A
+      131072         32768     float    none      -1    102.6    1.28    0.00      0    30.93    4.24    0.00    N/A
+       32768          8192     float    none      -1    154.2    0.21    0.00      0    274.6    0.12    0.00    N/A
+       65536         16384     float    none      -1    31.98    2.05    0.00      0    154.4    0.42    0.00    N/A
+      262144         65536     float    none      -1    31.97    8.20    0.00      0    30.99    8.46    0.00    N/A
+       65536         16384     float    none      -1    40.59    1.61    0.00      0    38.68    1.69    0.00    N/A
+      131072         32768     float    none      -1    31.77    4.13    0.00      0    30.65    4.28    0.00    N/A
+      524288        131072     float    none      -1    32.41   16.17    0.00      0    31.48   16.66    0.00    N/A
+      131072         32768     float    none      -1    41.21    3.18    0.00      0   1007.0    0.13    0.00    N/A
+      262144         65536     float    none      -1    525.5    0.50    0.00      0    526.7    0.50    0.00    N/A
+     1048576        262144     float    none      -1    33.97   30.87    0.00      0    32.33   32.44    0.00    N/A
+      262144         65536     float    none      -1   1009.5    0.26    0.00      0   1000.0    0.26    0.00    N/A
+      524288        131072     float    none      -1   1138.7    0.46    0.00      0   1076.3    0.49    0.00    N/A
+
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.4.113<0>
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Using network IB
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO comm 0x559c37b88390 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x99095ae1030da46 - Init START
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO comm 0x55e84b174390 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0xdbf63893dc64633e - Init START
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+     2097152        524288     float    none      -1    35.22   59.55    0.00      0    31.65   66.26    0.00    N/A
+      524288        131072     float    none      -1   1021.3    0.51    0.00      0   1012.4    0.52    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Setting affinity for GPU 0 to ffffffff,00000000,ffffffff,00000000
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO comm 0x558844b02350 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x46e2c735a742dec - Init START
+     1048576        262144     float    none      -1   1125.0    0.93    0.00      0   1051.4    1.00    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22569:22590 [0] NCCL INFO comm 0x559c37b88390 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x99095ae1030da46 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-cbhgz:22568:22585 [0] NCCL INFO comm 0x55e84b174390 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0xdbf63893dc64633e - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO comm 0x5644f8486350 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x44ee5cc02ebec784 - Init START
+           8             2     float    none      -1    28.10    0.00    0.00      0    27.27    0.00    0.00    N/A
+           8             2     float    none      -1    39.68    0.00    0.00      0    27.44    0.00    0.00    N/A
+          16             4     float    none      -1    27.92    0.00    0.00      0    27.06    0.00    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22566:22583 [0] NCCL INFO comm 0x558844b02350 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x46e2c735a742dec - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+          16             4     float    none      -1    27.92    0.00    0.00      0    27.11    0.00    0.00    N/A
+          32             8     float    none      -1    28.22    0.00    0.00      0    26.97    0.00    0.00    N/A
+          32             8     float    none      -1    27.99    0.00    0.00      0    27.21    0.00    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+           8             2     float    none      -1    37.72    0.00    0.00      0    37.01    0.00    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Setting affinity for GPU 0 to ffffffff,00000000,ffffffff,00000000
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO P2P Chunksize set to 131072
+          64            16     float    none      -1    47.08    0.00    0.00      0    45.25    0.00    0.00    N/A
+          64            16     float    none      -1    37.52    0.00    0.00      0    36.75    0.00    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+          16             4     float    none      -1    57.04    0.00    0.00      0    45.87    0.00    0.00    N/A
+         128            32     float    none      -1    66.15    0.00    0.00      0    53.77    0.00    0.00    N/A
+         128            32     float    none      -1    49.84    0.00    0.00      0    36.40    0.00    0.00    N/A
+          32             8     float    none      -1    37.59    0.00    0.00      0    36.61    0.00    0.00    N/A
+         256            64     float    none      -1    46.63    0.01    0.00      0    44.42    0.01    0.00    N/A
+         256            64     float    none      -1    37.27    0.01    0.00      0    36.00    0.01    0.00    N/A
+     1048576        262144     float    none      -1   1025.1    1.02    0.00      0    792.8    1.32    0.00    N/A
+          64            16     float    none      -1    37.52    0.00    0.00      0    36.70    0.00    0.00    N/A
+         512           128     float    none      -1    46.40    0.01    0.00      0    44.74    0.01    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22567:22587 [0] NCCL INFO comm 0x5644f8486350 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x44ee5cc02ebec784 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+         512           128     float    none      -1    37.23    0.01    0.00      0    36.36    0.01    0.00    N/A
+         128            32     float    none      -1    37.51    0.00    0.00      0    96.71    0.00    0.00    N/A
+        1024           256     float    none      -1    46.31    0.02    0.00      0    105.0    0.01    0.00    N/A
+        1024           256     float    none      -1    37.09    0.03    0.00      0    48.41    0.02    0.00    N/A
+     4194304       1048576     float    none      -1    38.39  109.27    0.00      0    209.7   20.00    0.00    N/A
+           8             2     float    none      -1    112.5    0.00    0.00      0    107.4    0.00    0.00    N/A
+         256            64     float    none      -1    47.64    0.01    0.00      0    37.60    0.01    0.00    N/A
+        2048           512     float    none      -1    56.86    0.04    0.00      0    44.42    0.05    0.00    N/A
+        2048           512     float    none      -1    78.53    0.03    0.00      0    67.10    0.03    0.00    N/A
+          16             4     float    none      -1    100.5    0.00    0.00      0    99.84    0.00    0.00    N/A
+     2097152        524288     float    none      -1   1269.1    1.65    0.00      0    737.2    2.84    0.00    N/A
+         512           128     float    none      -1    38.34    0.01    0.00      0    22.00    0.02    0.00    N/A
+        4096          1024     float    none      -1    45.65    0.09    0.00      0    44.28    0.09    0.00    N/A
+        4096          1024     float    none      -1    68.01    0.06    0.00      0    67.45    0.06    0.00    N/A
+          32             8     float    none      -1    100.4    0.00    0.00      0    99.68    0.00    0.00    N/A
+        1024           256     float    none      -1    38.44    0.03    0.00      0    37.63    0.03    0.00    N/A
+        8192          2048     float    none      -1    45.90    0.18    0.00      0    44.53    0.18    0.00    N/A
+        8192          2048     float    none      -1    67.93    0.12    0.00      0    67.50    0.12    0.00    N/A
+          64            16     float    none      -1    100.4    0.00    0.00      0    131.4    0.00    0.00    N/A
+        2048           512     float    none      -1    38.48    0.05    0.00      0    37.60    0.05    0.00    N/A
+       16384          4096     float    none      -1    46.07    0.36    0.00      0    44.32    0.37    0.00    N/A
+       16384          4096     float    none      -1    68.38    0.24    0.00      0    67.57    0.24    0.00    N/A
+         128            32     float    none      -1    132.1    0.00    0.00      0    194.4    0.00    0.00    N/A
+        4096          1024     float    none      -1    38.42    0.11    0.00      0    37.71    0.11    0.00    N/A
+       32768          8192     float    none      -1    46.91    0.70    0.00      0    45.26    0.72    0.00    N/A
+       32768          8192     float    none      -1    69.35    0.47    0.00      0    68.18    0.48    0.00    N/A
+         256            64     float    none      -1    194.6    0.00    0.00      0    320.5    0.00    0.00    N/A
+        8192          2048     float    none      -1    38.49    0.21    0.00      0    37.53    0.22    0.00    N/A
+       65536         16384     float    none      -1    47.21    1.39    0.00      0    68.56    0.96    0.00    N/A
+     2097152        524288     float    none      -1    165.6   12.66    0.00      0    320.9    6.53    0.00    N/A
+       65536         16384     float    none      -1    69.38    0.94    0.00      0    38.25    1.71    0.00    N/A
+     8388608       2097152     float    none      -1    79.40  105.65    0.00      0    966.3    8.68    0.00    N/A
+         512           128     float    none      -1    69.14    0.01    0.00      0    108.2    0.00    0.00    N/A
+       16384          4096     float    none      -1    285.3    0.06    0.00      0    542.5    0.03    0.00    N/A
+     4194304       1048576     float    none      -1    84.55   49.61    0.00      0    32.07  130.80    0.00    N/A
+      131072         32768     float    none      -1    39.06    3.36    0.00      0    100.4    1.31    0.00    N/A
+      131072         32768     float    none      -1    101.4    1.29    0.00      0    46.12    2.84    0.00    N/A
+        1024           256     float    none      -1    107.9    0.01    0.00      0    161.6    0.01    0.00    N/A
+       32768          8192     float    none      -1    39.61    0.83    0.00      0    47.79    0.69    0.00    N/A
+     4194304       1048576     float    none      -1    642.6    6.53    0.00      0    33.71  124.43    0.00    N/A
+      262144         65536     float    none      -1    46.52    5.63    0.00      0    38.54    6.80    0.00    N/A
+      262144         65536     float    none      -1    39.74    6.60    0.00      0    47.50    5.52    0.00    N/A
+        2048           512     float    none      -1    161.8    0.01    0.00      0   1274.4    0.00    0.00    N/A
+     8388608       2097152     float    none      -1    47.07  178.21    0.00      0    40.95  204.83    0.00    N/A
+    16777216       4194304     float    none      -1    154.5  108.60    0.00      0    32.45  517.02    0.00    N/A
+       65536         16384     float    none      -1    47.45    1.38    0.00      0    78.27    0.84    0.00    N/A
+      524288        131072     float    none      -1    40.26   13.02    0.00      0    68.96    7.60    0.00    N/A
+     8388608       2097152     float    none      -1    47.64  176.08    0.00      0    87.62   95.74    0.00    N/A
+      524288        131072     float    none      -1    78.20    6.70    0.00      0    48.17   10.88    0.00    N/A
+        4096          1024     float    none      -1   1048.2    0.00    0.00      0    37.55    0.11    0.00    N/A
+      131072         32768     float    none      -1    48.05    2.73    0.00      0    49.13    2.67    0.00    N/A
+    16777216       4194304     float    none      -1    59.20  283.42    0.00      0    32.88  510.22    0.00    N/A
+    33554432       8388608     float    none      -1    110.1  304.69    0.00      0    72.73  461.33    0.00    N/A
+        8192          2048     float    none      -1    57.06    0.14    0.00      0    45.90    0.18    0.00    N/A
+     1048576        262144     float    none      -1    40.99   25.58    0.00      0    39.10   26.82    0.00    N/A
+    16777216       4194304     float    none      -1    64.34  260.75    0.00      0    41.41  405.11    0.00    N/A
+     1048576        262144     float    none      -1    49.21   21.31    0.00      0    55.45   18.91    0.00    N/A
+    33554432       8388608     float    none      -1    90.15  372.19    0.00      0    92.65  362.17    0.00    N/A
+      262144         65536     float    none      -1    55.23    4.75    0.00      0    51.26    5.11    0.00    N/A
+       16384          4096     float    none      -1    39.19    0.42    0.00      0    99.79    0.16    0.00    N/A
+    67108864      16777216     float    none      -1    177.3  378.60    0.00      0    465.9  144.03    0.00    N/A
+    33554432       8388608     float    none      -1    195.1  172.02    0.00      0    270.5  124.04    0.00    N/A
+     2097152        524288     float    none      -1    51.01   41.11    0.00      0    39.45   53.16    0.00    N/A
+     2097152        524288     float    none      -1    51.46   40.76    0.00      0    49.25   42.59    0.00    N/A
+      524288        131072     float    none      -1    48.94   10.71    0.00      0    160.4    3.27    0.00    N/A
+    67108864      16777216     float    none      -1    215.0  312.18    0.00      0    210.8  318.33    0.00    N/A
+       32768          8192     float    none      -1   2037.3    0.02    0.00      0    39.76    0.82    0.00    N/A
+   134217728      33554432     float    none      -1   1021.7  131.37    0.00      0    377.1  355.94    0.00    N/A
+    67108864      16777216     float    none      -1    371.2  180.81    0.00      0    91.14  736.35    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13437:13437 [0] NCCL INFO comm 0x561748e8e4f0 rank 0 nranks 1 cudaDev 0 busId 10000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+     4194304       1048576     float    none      -1    190.7   21.99    0.00      0    47.52   88.27    0.00    N/A
+     4194304       1048576     float    none      -1    175.4   23.92    0.00      0    39.26  106.83    0.00    N/A
+     1048576        262144     float    none      -1    42.11   24.90    0.00      0    267.0    3.93    0.00    N/A
+   134217728      33554432     float    none      -1    906.3  148.09    0.00      0    33.73  3979.25    0.00    N/A
+       65536         16384     float    none      -1    56.18    1.17    0.00      0    40.59    1.61    0.00    N/A
+   134217728      33554432     float    none      -1    534.8  250.96    0.00      0    31.89  4208.84    0.00    N/A
+lbtest1-c69d9df59-fz2n9:13439:13439 [0] NCCL INFO comm 0x557e6e5e52f0 rank 0 nranks 1 cudaDev 0 busId 10000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+lbtest1-c69d9df59-fz2n9:13440:13440 [0] NCCL INFO comm 0x562dbcf684b0 rank 0 nranks 1 cudaDev 0 busId 10000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+     8388608       2097152     float    none      -1    60.85  137.85    0.00      0    980.6    8.55    0.00    N/A
+     8388608       2097152     float    none      -1   1067.2    7.86    0.00      0    100.4   83.58    0.00    N/A
+     2097152        524288     float    none      -1   1009.8    2.08    0.00      0    756.0    2.77    0.00    N/A
+      131072         32768     float    none      -1    74.75    1.75    0.00      0    323.0    0.41    0.00    N/A
+     4194304       1048576     float    none      -1    50.04   83.82    0.00      0    49.85   84.13    0.00    N/A
+    16777216       4194304     float    none      -1    110.6  151.71    0.00      0    39.58  423.85    0.00    N/A
+      262144         65536     float    none      -1    859.3    0.31    0.00      0    49.55    5.29    0.00    N/A
+    16777216       4194304     float    none      -1    579.6   28.95    0.00      0    47.80  350.97    0.00    N/A
+      524288        131072     float    none      -1    118.6    4.42    0.00      0    168.3    3.12    0.00    N/A
+     8388608       2097152     float    none      -1    58.81  142.65    0.00      0    176.8   47.45    0.00    N/A
+    33554432       8388608     float    none      -1    109.0  307.85    0.00      0    39.41  851.49    0.00    N/A
+    33554432       8388608     float    none      -1    150.1  223.61    0.00      0   1725.9   19.44    0.00    N/A
+
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.6.176<0>
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.6.176<0>
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.6.176<0>
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Using network IB
+
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] misc/ibvwrap.cc:94 NCCL WARN Call to ibv_open_device failed
+
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] transport/net_ib.cc:193 NCCL WARN NET/IB : Unable to open device mlx5_bond_0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/RoCE [1]mlx5_1:1/RoCE [2]mlx5_4:1/RoCE [3]mlx5_5:1/RoCE [4]mlx5_6:1/RoCE [5]mlx5_7:1/RoCE [6]mlx5_8:1/RoCE [7]mlx5_9:1/RoCE [RO]; OOB eth0:10.42.6.176<0>
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Using network IB
+     1048576        262144     float    none      -1    707.4    1.48    0.00      0    303.7    3.45    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO comm 0x563e4431d4f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0xaca477582b76fddf - Init START
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO comm 0x5629f7df34f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x5c77f19a6b05ba20 - Init START
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO comm 0x5643b42642b0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x30cc0aa96b1e2918 - Init START
+    16777216       4194304     float    none      -1    570.7   29.40    0.00      0    19264    0.87    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO comm 0x5596add1e2f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x1c7c988913618542 - Init START
+lbtest1-c69d9df59-ldh5z:12867:12886 [0] NCCL INFO comm 0x563e4431d4f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0xaca477582b76fddf - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+           8             2     float    none      -1     9.98    0.00    0.00      0     9.26    0.00    0.00    N/A
+          16             4     float    none      -1     9.92    0.00    0.00      0     9.13    0.00    0.00    N/A
+          32             8     float    none      -1    10.01    0.00    0.00      0     9.09    0.00    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+          64            16     float    none      -1    10.02    0.01    0.00      0     9.07    0.01    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Setting affinity for GPU 0 to ffffffff,00000000,ffffffff,00000000
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO P2P Chunksize set to 131072
+         128            32     float    none      -1    10.04    0.01    0.00      0     9.23    0.01    0.00    N/A
+         256            64     float    none      -1    10.02    0.03    0.00      0     9.03    0.03    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+         512           128     float    none      -1     9.90    0.05    0.00      0     8.92    0.06    0.00    N/A
+        1024           256     float    none      -1     9.80    0.10    0.00      0     8.86    0.12    0.00    N/A
+        2048           512     float    none      -1     9.79    0.21    0.00      0     8.91    0.23    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+        4096          1024     float    none      -1     9.84    0.42    0.00      0     8.81    0.46    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Setting affinity for GPU 0 to ffffffff,00000000,ffffffff,00000000
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO P2P Chunksize set to 131072
+        8192          2048     float    none      -1     9.76    0.84    0.00      0     8.95    0.92    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO NCCL_TOPO_DUMP_FILE set by environment to /tmp/top.xml
+       16384          4096     float    none      -1    10.05    1.63    0.00      0     8.84    1.85    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 00/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 01/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 02/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 03/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 04/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 05/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 06/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 07/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 08/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 09/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 10/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 11/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 12/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 13/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 14/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 15/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 16/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 17/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 18/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 19/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 20/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 21/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 22/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 23/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 24/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 25/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 26/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 27/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 28/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 29/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 30/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Channel 31/32 :    0
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Trees [0] -1/-1/-1->0->-1 [1] -1/-1/-1->0->-1 [2] -1/-1/-1->0->-1 [3] -1/-1/-1->0->-1 [4] -1/-1/-1->0->-1 [5] -1/-1/-1->0->-1 [6] -1/-1/-1->0->-1 [7] -1/-1/-1->0->-1 [8] -1/-1/-1->0->-1 [9] -1/-1/-1->0->-1 [10] -1/-1/-1->0->-1 [11] -1/-1/-1->0->-1 [12] -1/-1/-1->0->-1 [13] -1/-1/-1->0->-1 [14] -1/-1/-1->0->-1 [15] -1/-1/-1->0->-1 [16] -1/-1/-1->0->-1 [17] -1/-1/-1->0->-1 [18] -1/-1/-1->0->-1 [19] -1/-1/-1->0->-1 [20] -1/-1/-1->0->-1 [21] -1/-1/-1->0->-1 [22] -1/-1/-1->0->-1 [23] -1/-1/-1->0->-1 [24] -1/-1/-1->0->-1 [25] -1/-1/-1->0->-1 [26] -1/-1/-1->0->-1 [27] -1/-1/-1->0->-1 [28] -1/-1/-1->0->-1 [29] -1/-1/-1->0->-1 [30] -1/-1/-1->0->-1 [31] -1/-1/-1->0->-1
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO P2P Chunksize set to 131072
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Connected all rings
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO Connected all trees
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO 32 coll channels, 0 nvls channels, 32 p2p channels, 32 p2p channels per peer
+       32768          8192     float    none      -1    11.13    2.94    0.00      0    10.28    3.19    0.00    N/A
+       65536         16384     float    none      -1    11.18    5.86    0.00      0    10.01    6.55    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12870:12893 [0] NCCL INFO comm 0x5629f7df34f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x5c77f19a6b05ba20 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+lbtest1-c69d9df59-ldh5z:12868:12884 [0] NCCL INFO comm 0x5643b42642b0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x30cc0aa96b1e2918 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+lbtest1-c69d9df59-ldh5z:12869:12889 [0] NCCL INFO comm 0x5596add1e2f0 rank 0 nranks 1 cudaDev 0 nvmlDev 0 busId 8a000 commId 0x1c7c988913618542 - Init COMPLETE
+#
+#                                                              out-of-place                       in-place          
+#       size         count      type   redop    root     time   algbw   busbw #wrong     time   algbw   busbw #wrong
+#        (B)    (elements)                               (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+    67108864      16777216     float    none      -1    386.4  173.68    0.00      0    43.61  1538.99    0.00    N/A
+    67108864      16777216     float    none      -1    453.3  148.03    0.00      0    51.89  1293.22    0.00    N/A
+      131072         32768     float    none      -1    11.51   11.39    0.00      0    28.69    4.57    0.00    N/A
+     2097152        524288     float    none      -1    744.2    2.82    0.00      0    584.8    3.59    0.00    N/A
+           8             2     float    none      -1    27.76    0.00    0.00      0    107.9    0.00    0.00    N/A
+           8             2     float    none      -1    69.04    0.00    0.00      0    87.29    0.00    0.00    N/A
+      262144         65536     float    none      -1    99.78    2.63    0.00      0    97.36    2.69    0.00    N/A
+           8             2     float    none      -1   1080.4    0.00    0.00      0    78.77    0.00    0.00    N/A
+          16             4     float    none      -1    46.95    0.00    0.00      0    45.99    0.00    0.00    N/A
+          16             4     float    none      -1    87.41    0.00    0.00      0    111.1    0.00    0.00    N/A
+          16             4     float    none      -1    80.03    0.00    0.00      0    89.57    0.00    0.00    N/A
+      524288        131072     float    none      -1    50.03   10.48    0.00      0    48.59   10.79    0.00    N/A
+          32             8     float    none      -1    71.07    0.00    0.00      0   1041.1    0.00    0.00    N/A
+    33554432       8388608     float    none      -1    85.39  392.98    0.00      0    223.7  150.01    0.00    N/A
+     4194304       1048576     float    none      -1    215.1   19.50    0.00      0    430.5    9.74    0.00    N/A
+          32             8     float    none      -1   1081.9    0.00    0.00      0    86.49    0.00    0.00    N/A
+          32             8     float    none      -1    78.93    0.00    0.00      0    78.48    0.00    0.00    N/A
+     1048576        262144     float    none      -1    122.7    8.54    0.00      0    44.78   23.41    0.00    N/A
+          64            16     float    none      -1    46.70    0.00    0.00      0    37.25    0.00    0.00    N/A
+          64            16     float    none      -1    75.20    0.00    0.00      0    87.73    0.00    0.00    N/A
+          64            16     float    none      -1    68.87    0.00    0.00      0   1000.8    0.00    0.00    N/A
+         128            32     float    none      -1    50.26    0.00    0.00      0    37.18    0.00    0.00    N/A
+     2097152        524288     float    none      -1    42.55   49.29    0.00      0    83.47   25.12    0.00    N/A
+         128            32     float    none      -1    75.06    0.00    0.00      0    76.08    0.00    0.00    N/A
+   134217728      33554432     float    none      -1    372.1  360.70    0.00      0    989.1  135.70    0.00    N/A
+   134217728      33554432     float    none      -1    447.9  299.69    0.00      0    997.5  134.55    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22569:22569 [0] NCCL INFO comm 0x559c37b88390 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+lbtest1-c69d9df59-cbhgz:22568:22568 [0] NCCL INFO comm 0x55e84b174390 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+         128            32     float    none      -1    69.40    0.00    0.00      0    69.51    0.00    0.00    N/A
+         256            64     float    none      -1    38.65    0.01    0.00      0    132.9    0.00    0.00    N/A
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+     8388608       2097152     float    none      -1    757.9   11.07    0.00      0    31.86  263.30    0.00    N/A
+     4194304       1048576     float    none      -1    46.17   90.85    0.00      0    39.15  107.14    0.00    N/A
+    67108864      16777216     float    none      -1    980.6   68.43    0.00      0    25.50  2631.38    0.00    N/A
+         256            64     float    none      -1    170.8    0.00    0.00      0    967.2    0.00    0.00    N/A
+         256            64     float    none      -1    77.89    0.00    0.00      0    69.36    0.00    0.00    N/A
+         512           128     float    none      -1    929.9    0.00    0.00      0    38.15    0.01    0.00    N/A
+         512           128     float    none      -1    76.33    0.01    0.00      0    75.63    0.01    0.00    N/A
+         512           128     float    none      -1    278.6    0.00    0.00      0    68.77    0.01    0.00    N/A
+     8388608       2097152     float    none      -1    120.4   69.68    0.00      0    84.04   99.81    0.00    N/A
+        1024           256     float    none      -1    38.30    0.03    0.00      0    187.0    0.01    0.00    N/A
+    16777216       4194304     float    none      -1    58.13  288.61    0.00      0    147.8  113.51    0.00    N/A
+        1024           256     float    none      -1    225.0    0.00    0.00      0    77.33    0.01    0.00    N/A
+        1024           256     float    none      -1    71.13    0.01    0.00      0    227.5    0.00    0.00    N/A
+        2048           512     float    none      -1    39.99    0.05    0.00      0    37.67    0.05    0.00    N/A
+   134217728      33554432     float    none      -1    263.6  509.22    0.00      0    500.8  268.01    0.00    N/A
+    16777216       4194304     float    none      -1    132.8  126.31    0.00      0    84.11  199.47    0.00    N/A
+        2048           512     float    none      -1    75.73    0.03    0.00      0    254.9    0.01    0.00    N/A
+        2048           512     float    none      -1    69.92    0.03    0.00      0    71.62    0.03    0.00    N/A
+    33554432       8388608     float    none      -1    270.5  124.04    0.00      0    10.64  3153.14    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22566:22566 [0] NCCL INFO comm 0x558844b02350 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+        4096          1024     float    none      -1    217.6    0.02    0.00      0    39.68    0.10    0.00    N/A
+        4096          1024     float    none      -1    77.88    0.05    0.00      0    75.41    0.05    0.00    N/A
+        4096          1024     float    none      -1    315.8    0.01    0.00      0    68.83    0.06    0.00    N/A
+    33554432       8388608     float    none      -1    153.6  218.47    0.00      0    83.74  400.70    0.00    N/A
+        8192          2048     float    none      -1    38.06    0.22    0.00      0    257.7    0.03    0.00    N/A
+    67108864      16777216     float    none      -1    102.8  652.62    0.00      0    10.26  6542.96    0.00    N/A
+        8192          2048     float    none      -1    295.8    0.03    0.00      0    83.23    0.10    0.00    N/A
+        8192          2048     float    none      -1    77.04    0.11    0.00      0    339.2    0.02    0.00    N/A
+       16384          4096     float    none      -1    45.84    0.36    0.00      0    110.0    0.15    0.00    N/A
+   134217728      33554432     float    none      -1    194.7  689.23    0.00      0     9.95  13485.02    0.00    N/A
+lbtest1-c69d9df59-cbhgz:22567:22567 [0] NCCL INFO comm 0x5644f8486350 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+       16384          4096     float    none      -1    147.9    0.11    0.00      0    372.0    0.04    0.00    N/A
+    67108864      16777216     float    none      -1    129.8  516.95    0.00      0    39.15  1714.07    0.00    N/A
+       16384          4096     float    none      -1    109.2    0.15    0.00      0    314.8    0.05    0.00    N/A
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+       32768          8192     float    none      -1    303.8    0.11    0.00      0    169.4    0.19    0.00    N/A
+       32768          8192     float    none      -1    102.2    0.32    0.00      0    391.3    0.08    0.00    N/A
+       32768          8192     float    none      -1    54.45    0.60    0.00      0    152.8    0.21    0.00    N/A
+       65536         16384     float    none      -1    431.3    0.15    0.00      0    53.26    1.23    0.00    N/A
+   134217728      33554432     float    none      -1    321.5  417.53    0.00      0    171.0  784.68    0.00    N/A
+       65536         16384     float    none      -1    162.7    0.40    0.00      0    492.2    0.13    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12867:12867 [0] NCCL INFO comm 0x563e4431d4f0 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+       65536         16384     float    none      -1    39.84    1.64    0.00      0    68.62    0.96    0.00    N/A
+      131072         32768     float    none      -1    167.1    0.78    0.00      0    31.43    4.17    0.00    N/A
+      131072         32768     float    none      -1    278.5    0.47    0.00      0    523.7    0.25    0.00    N/A
+      131072         32768     float    none      -1    523.5    0.25    0.00      0    522.5    0.25    0.00    N/A
+      262144         65536     float    none      -1    32.69    8.02    0.00      0    31.67    8.28    0.00    N/A
+      262144         65536     float    none      -1    525.1    0.50    0.00      0   1016.6    0.26    0.00    N/A
+      262144         65536     float    none      -1   1015.7    0.26    0.00      0   1013.1    0.26    0.00    N/A
+      524288        131072     float    none      -1    32.61   16.08    0.00      0    31.49   16.65    0.00    N/A
+      524288        131072     float    none      -1   1018.2    0.51    0.00      0   1017.3    0.52    0.00    N/A
+      524288        131072     float    none      -1   1014.7    0.52    0.00      0    23.43   22.38    0.00    N/A
+     1048576        262144     float    none      -1    32.62   32.14    0.00      0    32.08   32.69    0.00    N/A
+     1048576        262144     float    none      -1    33.45   31.34    0.00      0    32.22   32.55    0.00    N/A
+     1048576        262144     float    none      -1    33.46   31.34    0.00      0    87.25   12.02    0.00    N/A
+     2097152        524288     float    none      -1    80.59   26.02    0.00      0    80.10   26.18    0.00    N/A
+     2097152        524288     float    none      -1    36.20   57.93    0.00      0    50.71   41.36    0.00    N/A
+     2097152        524288     float    none      -1    58.18   36.04    0.00      0    32.00   65.55    0.00    N/A
+     4194304       1048576     float    none      -1    369.4   11.36    0.00      0    228.2   18.38    0.00    N/A
+     4194304       1048576     float    none      -1    656.3    6.39    0.00      0    608.5    6.89    0.00    N/A
+     4194304       1048576     float    none      -1    111.6   37.58    0.00      0    148.7   28.20    0.00    N/A
+     8388608       2097152     float    none      -1    194.6   43.10    0.00      0    299.5   28.01    0.00    N/A
+     8388608       2097152     float    none      -1    681.3   12.31    0.00      0    782.9   10.72    0.00    N/A
+     8388608       2097152     float    none      -1    137.7   60.91    0.00      0    69.75  120.26    0.00    N/A
+    16777216       4194304     float    none      -1    300.7   55.79    0.00      0    786.8   21.32    0.00    N/A
+    16777216       4194304     float    none      -1    331.8   50.56    0.00      0    538.7   31.14    0.00    N/A
+    16777216       4194304     float    none      -1    225.6   74.37    0.00      0    209.2   80.19    0.00    N/A
+    33554432       8388608     float    none      -1    667.8   50.24    0.00      0    465.7   72.05    0.00    N/A
+    33554432       8388608     float    none      -1    480.8   69.79    0.00      0    468.8   71.58    0.00    N/A
+    33554432       8388608     float    none      -1    266.7  125.79    0.00      0    238.4  140.75    0.00    N/A
+    67108864      16777216     float    none      -1    727.3   92.27    0.00      0    559.7  119.89    0.00    N/A
+    67108864      16777216     float    none      -1    374.7  179.12    0.00      0    279.0  240.50    0.00    N/A
+    67108864      16777216     float    none      -1    489.4  137.13    0.00      0    286.8  233.96    0.00    N/A
+   134217728      33554432     float    none      -1   1046.9  128.20    0.00      0    400.2  335.39    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12870:12870 [0] NCCL INFO comm 0x5629f7df34f0 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+   134217728      33554432     float    none      -1    790.9  169.70    0.00      0    273.4  491.01    0.00    N/A
+   134217728      33554432     float    none      -1    899.4  149.22    0.00      0    258.1  520.08    0.00    N/A
+lbtest1-c69d9df59-ldh5z:12868:12868 [0] NCCL INFO comm 0x5643b42642b0 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
+lbtest1-c69d9df59-ldh5z:12869:12869 [0] NCCL INFO comm 0x5596add1e2f0 rank 0 nranks 1 cudaDev 0 busId 8a000 - Destroy COMPLETE
+# Out of bounds values : 0 OK
+# Avg bus bandwidth    : 0 
+#
+
